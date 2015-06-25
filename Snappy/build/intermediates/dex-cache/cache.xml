@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/akashdeepsingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2b42a183737f9a0e2c788274b8a73aa82d53d362.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/classes-58c73d6f91a1bbb3c6abc3cdd7e2625d55e56f34.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3ac90cfd965af135c18dcba046a7338e41e52e47.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/commons-io-2.4-cad5b355ef1f2826cb54a8891912002038742c66.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/classes-16b1f8e037c2d73de57ffa75f885495a3533e438.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-dce452581ccb25a08a35dc7d0224127f5f015c6f.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-71dfd4afc7bd430cbd4613c8acea2004d6e34655.jar" />
+    </item>
+    <item
+        jar="/Users/akashdeepsingh/Downloads/Snappy/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/akashdeepsingh/Downloads/Snappy/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-ae16c09506032901428fc3545313ffe5178ffe1f.jar" />
+    </item>
+
+</items>
